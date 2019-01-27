@@ -1,0 +1,17 @@
+audio1	22050
+audio2	22050
+audio3	22050
+audio4	22050
+audio6	32000
+audio7	48000
+audio22	32000
+audio8	32000
+audio9	32000
+audio10	32000
+audio12	32000
+audio13	32000
+audio24	32000
+audio15	48000
+audio17	48000
+audio19	48000
+
