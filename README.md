@@ -1,7 +1,7 @@
-### Title
-Large-scale Whale-call Classification by Transfer Learning on Multi-scale Waveforms and Time-frequency Features
+### Large-scale Whale-call Classification by Transfer Learning on Multi-scale Waveforms and Time-frequency Features
 Authors: Dezhi Wang, Lilun Zhang, Changchun Bao, Yongxian Wang and Kele Xu
 College of Meteorology and Oceanography, National University of Defense Technology, China
+Submitted to Applied Science
 
 https://github.com/Blank-Wang/whale-call-classification
 
@@ -41,4 +41,5 @@ cuda 9.1
 librosa 0.5.1
 
 torchvision 0.2.1
+
 
